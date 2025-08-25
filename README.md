@@ -7,4 +7,4 @@ This project was developed as part of my assessment submission.
 1. Install [Flutter](https://flutter.dev/docs/get-started/install).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/number-puzzle-game.git
+   git clone https://github.com/shivavirat813/number-puzzle-game.git
