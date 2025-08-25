@@ -1,10 +1,21 @@
-# Number Puzzle Game
+# 🎮 Number Puzzle Game
 
-A simple number puzzle game built using Flutter.  
-This project was developed as part of my assessment submission.
+A simple Flutter-based puzzle game where numbers are displayed in a grid.  
+Players can toggle numbers in sequence to test their memory and speed.
 
-## 🚀 How to Run
-1. Install [Flutter](https://flutter.dev/docs/get-started/install).
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/shivavirat813/number-puzzle-game.git
+---
+
+## ✨ Features
+- 🟩 Interactive *5x5 number grid*
+- 🎯 Tap-to-toggle numbers
+- 📱 Responsive layout (works on Android & iOS)
+- ⚡ Built with *Flutter & Dart*
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/shivavirat813/number-puzzle-game.git
+cd number-puzzle-game
